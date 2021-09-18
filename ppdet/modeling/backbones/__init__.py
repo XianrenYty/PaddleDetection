@@ -27,6 +27,7 @@ from . import dla
 from . import shufflenet_v2
 from . import swin_transformer
 from . import lcnet
+from . import efficientnet
 
 from .vgg import *
 from .resnet import *
@@ -35,7 +36,6 @@ from .mobilenet_v1 import *
 from .mobilenet_v3 import *
 from .hrnet import *
 from .lite_hrnet import *
-from .blazenet import *
 from .ghostnet import *
 from .senet import *
 from .res2net import *
@@ -43,3 +43,4 @@ from .dla import *
 from .shufflenet_v2 import *
 from .swin_transformer import *
 from .lcnet import *
+from .efficientnet import *
